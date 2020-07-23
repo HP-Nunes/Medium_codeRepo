@@ -3,7 +3,7 @@ Sample notebooks for Medium posts
 
 ## KNN
 
-Notebook
+[Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/KNN_notebook.ipynb)
 
 ### Further Reading
 
