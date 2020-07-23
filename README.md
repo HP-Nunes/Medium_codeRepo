@@ -1,11 +1,11 @@
 # Medium_codeRepo
 Sample notebooks for Medium posts
 
-<b>KNN</b>
+## KNN
 
 Notebook
 
-## Further Reading
+### Further Reading
 
 * [K-Nearest Neighbors Algorithm in Python and Scikit-Learn](https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
 * [KNN visualization in just 13 lines of code](https://towardsdatascience.com/knn-visualization-in-just-13-lines-of-code-32820d72c6b6)
