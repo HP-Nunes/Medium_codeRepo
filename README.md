@@ -4,6 +4,8 @@
 
 ### KNN
 
+[Link to Article here]
+
 ![image info](./img/mrrodger.png)
 
 [Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/KNN_notebook.ipynb)
@@ -20,6 +22,8 @@
 * [How to interpret classification report of scikit-learn?](https://datascience.stackexchange.com/questions/64441/how-to-interpret-classification-report-of-scikit-learn)
 
 ### Decision Tree Classifier
+
+[Link to Article here]
 
 ![image info](./img/classtree.png)
 
