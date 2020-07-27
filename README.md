@@ -1,4 +1,4 @@
-# Sample notebooks for Medium posts
+# Medium Posts' Reference Programming Notebooks
 
 ## TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program
 ![image info](./img/dsmpBanner.png)
