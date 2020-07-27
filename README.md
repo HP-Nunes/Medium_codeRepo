@@ -27,7 +27,7 @@
 
 ![image info](./img/classtree.png)
 
-[Notebook]()
+[Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/DecisionTreeClassifier_notebook.ipynb)
 
 <b>Further Reading</b>
 
