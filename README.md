@@ -1,11 +1,12 @@
-# Medium_codeRepo
-Sample notebooks for Medium posts
+# Sample notebooks for Medium posts
 
-## KNN
+## Machine Learning
+
+### KNN
 
 [Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/KNN_notebook.ipynb)
 
-### Further Reading
+<b>Further Reading</b>
 
 * [K-Nearest Neighbors Algorithm in Python and Scikit-Learn](https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
 * [KNN visualization in just 13 lines of code](https://towardsdatascience.com/knn-visualization-in-just-13-lines-of-code-32820d72c6b6)
@@ -15,3 +16,15 @@ Sample notebooks for Medium posts
 * [Precision vs Recall](https://towardsdatascience.com/precision-vs-recall-386cf9f89488#:~:text=Precision%20and%20recall%20are%20two,correctly%20classified%20by%20your%20algorithm)
 * [How do I interpret the given classification report?](https://datascience.stackexchange.com/questions/57192/how-do-i-interpret-the-given-classification-report)
 * [How to interpret classification report of scikit-learn?](https://datascience.stackexchange.com/questions/64441/how-to-interpret-classification-report-of-scikit-learn)
+
+### Decision Tree Classifier
+
+[Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/KNN_notebook.ipynb)
+
+<b>Further Reading</b>
+
+* https://www.coursera.org/lecture/ml-classification/optional-pruning-decision-trees-to-avoid-overfitting-qvf6v
+* https://towardsdatascience.com/decision-tree-build-prune-and-visualize-it-using-python-12ceee9af752
+* https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+* https://www.displayr.com/machine-learning-pruning-decision-trees/
+* https://pdfs.semanticscholar.org/025b/8c109c38dc115024e97eb0ede5ea873fffdb.pdf
