@@ -4,6 +4,8 @@
 
 ### KNN
 
+![image info](./img/mrrodger.png)
+
 [Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/KNN_notebook.ipynb)
 
 <b>Further Reading</b>
@@ -19,7 +21,9 @@
 
 ### Decision Tree Classifier
 
-[Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/KNN_notebook.ipynb)
+![image info](./img/classtree.png)
+
+[Notebook]()
 
 <b>Further Reading</b>
 
