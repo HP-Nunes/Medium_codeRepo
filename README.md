@@ -7,7 +7,7 @@
 
 [An Introduction to Data Collection: REST APIs with Python & Pizzas](https://medium.com/@geocuriosity/an-introduction-to-data-collection-rest-apis-with-python-pizzas-7b682cef676c)
 
-[Notebook]()
+[Notebook](https://nbviewer.jupyter.org/github/HP-Nunes/Medium_codeRepo/blob/master/api_OpenAQ.ipynb)
 
 ### Pythonic GIS
 
