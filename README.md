@@ -1,5 +1,21 @@
 # Sample notebooks for Medium posts
 
+## TechSoup and ParsonsTKO Summer 2020 Data Strategy Mentorship Program
+![image info](./img/dsmpBanner.png)
+
+### Working with APIs
+
+[An Introduction to Data Collection: REST APIs with Python & Pizzas](https://medium.com/@geocuriosity/an-introduction-to-data-collection-rest-apis-with-python-pizzas-7b682cef676c)
+
+[Notebook]()
+
+### Pythonic GIS
+
+[Spatial Intersects with Geopandas](https://medium.com/analytics-vidhya/spatial-intersects-with-geopandas-420c98915ca9)
+
+[Notebook]()
+
+
 ## Machine Learning
 
 ### KNN
