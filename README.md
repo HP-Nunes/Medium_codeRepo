@@ -20,7 +20,7 @@
 
 ### KNN
 
-[Link to Article here]
+[Won't You Be My Neighbor?](https://medium.com/@geocuriosity/wont-you-be-my-neighbor-f69cebceaed4)
 
 ![image info](./img/mrrodger.png)
 
