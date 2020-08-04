@@ -52,3 +52,9 @@
 * [Sklearn documentation: DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 * [Pruning Decision Trees](https://www.displayr.com/machine-learning-pruning-decision-trees/)
 * [Study of Various Decision Tree Pruning Methods with their Empirical Comparison in WEKA](https://pdfs.semanticscholar.org/025b/8c109c38dc115024e97eb0ede5ea873fffdb.pdf)
+
+### Linear Regression (Least Squares) & Diagnostics
+
+[Link to Article here]
+
+[Notebook]()
