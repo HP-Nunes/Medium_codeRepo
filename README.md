@@ -15,6 +15,10 @@
 
 [Notebook]()
 
+### Professional Development
+
+[After the Informational Interviews](https://medium.com/@geocuriosity/after-the-informational-interview-ed1fc6c478c0)
+
 
 ## Machine Learning
 
